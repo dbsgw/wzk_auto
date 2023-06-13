@@ -10,3 +10,5 @@ For jsjzyk.36ve.com
 
 ![img.png](others/img.png)
 ### Enjoy it！
+
+## 引用模块 https://github.com/Mightnire/wzk_auto
